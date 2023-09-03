@@ -3,7 +3,7 @@ name: 'OTUS C++ HW4 CI'
 on:
   push:
     branches:
-      - main
+      - master
       - develop
       - feature/*
 
