@@ -1,0 +1,4 @@
+<map id="is_container&lt; T, std::void_t&lt; typename std::enable_if&lt; is_not_string&lt; T &gt; &gt;::type, decltype(std::declval&lt; T &gt;().begin()), decltype(std::declval&lt; T &gt;().end()), typename T::value_type &gt; &gt;" name="is_container&lt; T, std::void_t&lt; typename std::enable_if&lt; is_not_string&lt; T &gt; &gt;::type, decltype(std::declval&lt; T &gt;().begin()), decltype(std::declval&lt; T &gt;().end()), typename T::value_type &gt; &gt;">
+<area shape="rect" id="node1" title="Check type is an iterable container." alt="" coords="5,80,233,195"/>
+<area shape="rect" id="node2" title=" " alt="" coords="70,5,169,32"/>
+</map>
